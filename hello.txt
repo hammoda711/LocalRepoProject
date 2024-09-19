@@ -1,1 +1,1 @@
-solving issues
+Hello, Git and GitHub!
